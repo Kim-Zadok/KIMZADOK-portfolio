@@ -1,0 +1,19 @@
+Generate an HTML file for a personal cybersecurity portfolio:
+- Sections: Home, About Me, Projects, Blog, Contact
+- Modern, professional, responsive design
+- Accessible and SEO-friendly structure
+
+Generate a CSS file for a modern tech/cybersecurity theme:
+- Dark background, vibrant accent color
+- Responsive, clean layout
+- Clear, readable fonts
+- Stylish nav bar with smooth scrolling
+
+
+“Create a new page called blog.html for my cybersecurity articles, with a clean post layout and sidebar for categories.”
+
+Prompt: “Add an email subscription form at the bottom of the blog page (collect emails and store via service like Formspree or EmailJS).”
+
+Projects Showcase:
+
+Prompt: “For projects.html, create cards for each project with title, description, tech stack, and GitHub link.”
